@@ -1,0 +1,2 @@
+void(std::string word, std:: string& text);
+void a(std::string word, std::string& text, int i);
